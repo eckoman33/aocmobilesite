@@ -202,7 +202,7 @@
  .wsite-location .wsite-hide-map .wsite-m-button span { background-image: url("theme/directions-icon-2x.png?1600287646"); -moz-background-size:22px 21px; -ie-background-size:22px 21px; -o-background-size:22px 21px; -webkit-background-size:22px 21px; background-size:22px 21px; }
  }
  .blogCommentWrap { margin: 0 0 22px 0; padding: 5px 10px 30px; word-wrap: break-word; background:#fff; border:1px solid #D5D8DB; border-radius:6px; position:relative; box-shadow:0 1px 3px rgba(0,0,0,0.05) }
- .blogCommentWrap:before { content: ""; position:absolute; top:-9px; width: 24px; height: 9px; background:url(theme/bubble-arrow-@2x.png?1600287646) no-repeat; background-size:24px 9px; }
+ .blogCommentWrap:before { content: ""; position:absolute; top:-9px; width: 24px; height: 9px; background:url(files/mobile/theme/bubble-arrow-@2x.png) no-repeat; background-size:24px 9px; }
  h2#commentReplyTitle { font-size: 15px; text-transform:uppercase; color:#747677; font-weight:600; font-family: 'Open Sans', sans-serif; text-align:center; }
  .blogCommentHeading { font-family: 'Open Sans', sans-serif; margin: 0 0 5px 0; padding:0; background:#fff; }
  .blogCommentHeading .blogCommentHeadingInner { height: 25px; background: #fff; }
