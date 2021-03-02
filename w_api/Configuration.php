@@ -11,10 +11,10 @@
  */
 class Configuration
 {
-	const RESELLER_REQUEST_SECRET = 'd0ad5e044b8b4872126d3519570ff476fe9d0f8c39d286b3bfe6412b4e6418a2';
+	const RESELLER_REQUEST_SECRET = 'c7e6cca68b3241bf73ab6cceafbae889402b997224c6b079f32445bff624e252';
 	const ERROR_REPORTING_LEVEL = 0;
 	const DEPLOYED_HOSTNAME = 'yeahmonentertainment.com';
-	const BUILDDATE = 1600287650;
+	const BUILDDATE = 1612230587;
 	const DEPLOYED_REPOSITORY = 'live';
 	const ORIGIN_API_ENDPOINT = 'https://api.weeblycloud.com/private/';
 	const CLIENT_API_ENDPOINT = 'http://pages.weebly.com/';
