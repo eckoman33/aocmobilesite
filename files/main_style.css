@@ -143,6 +143,8 @@
  .wsite-button-large .wsite-button-inner { padding: 0px 0px 0px 28px; }
  }
 
+ /*button ticket css code start*/
+
  .body{
   text-align: center;
 }
@@ -165,6 +167,8 @@
 .button:hover{
   box-shadow: 0 0 0 #fff;
 }
+
+/*button ticket css code end*/
 
 div.paragraph ul, div.paragraph ol { padding-left: 3em !important; margin: 5px 0 !important; }
 div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
