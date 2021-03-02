@@ -1,0 +1,1 @@
+{"pages":["index.html","gallery.html","web-series.html","comedy-classes.html","merch.html","videos.html","shows.html","store.html"],"protected":{"HOME":false,"GALLERY":false,"SHOWS":false,"VIDEOS":false,"COMEDY CLASSES":false,"ONLINE STORE":false,"MERCH":false,"WEB SERIES":false},"dynamic":{"store.html":true}}
